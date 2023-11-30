@@ -9,7 +9,6 @@ University of Chinese Academy of Sciences	Beijing, China.
 09/2015 - 06/2019 $\quad$ Bachelor, **Remote Sensing Science and Technology**	(ranked 1st, recommended as Ph.D. student without examination), Nanjing University of Information Science & Technology	Nanjing, China
 #### Peer Reviewer For
 _IEEE Transactions on Geoscience and Remote Sensing_ , _International Journal of Applied Earth Observation and Geoinformation_ , _Remote Sensing_ , _Land_ , _Agriculture_.
-#### Publications & Patents
 #### Peer-reviewed & Revised Publications
 - **Bai, J.**, Niu, Z.*, Gao, S., Bi, K., Wang, J., Huang, Y., & Sun, G. (2023). An exploration, analysis, and correction of the distance effect on terrestrial hyperspectral LiDAR data. ISPRS Journal of Photogrammetry and Remote Sensing, 198, 60-83. 
 - **Bai, J.**, Gao, S.*, Niu, Z., Zhang, C., Bi, K., Sun, G., and Huang, Y. (2021). A Novel Algorithm for Leaf Incidence Angle Effect Correction of Hyperspectral LiDAR. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-9. 
