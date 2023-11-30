@@ -3,19 +3,18 @@ Excellent Prize of President Scholarship in CAS (中国科学院院长奖获得�
 - 🔭 Expertise & Skills: **quantitative remote sensing, global ecology evaluation, land and vegetation parameter retrieval, and LiDAR/hyperspectral LiDAR basis & application**.
 - 📫 e-mail: baijie19@mails.ucas.ac.cn
 - 🌏 [researchgate](https://www.researchgate.net/profile/Jie-Bai-22)
-
-### Education
+#### Education
 09/2019 - $\quad$ Ph.D., **Cartography and Geography Information System**, Aerospace Information Research Institute (AIR), Chinese Academy of Sciences (CAS)
 University of Chinese Academy of Sciences	Beijing, China.  **Advisor： Prof. Zheng Niu**  
 09/2015 - 06/2019 $\quad$ Bachelor, **Remote Sensing Science and Technology**	(ranked 1st, recommended as Ph.D. student without examination), Nanjing University of Information Science & Technology	Nanjing, China
-### Peer Reviewer For
+#### Peer Reviewer For
 - _IEEE Transactions on Geoscience and Remote Sensing_
 - _International Journal of Applied Earth Observation and Geoinformation_
 - _Remote Sensing_
 - _Land_
 - _Agriculture_
-### Publications & Patents
-#### Peer-reviewed & revised publications
+#### Publications & Patents
+#### Peer-reviewed & Revised Publications
 - **Bai, J.**, Niu, Z.*, Gao, S., Bi, K., Wang, J., Huang, Y., & Sun, G. (2023). An exploration, analysis, and correction of the distance effect on terrestrial hyperspectral LiDAR data. ISPRS Journal of Photogrammetry and Remote Sensing, 198, 60-83. 
 - **Bai, J.**, Gao, S.*, Niu, Z., Zhang, C., Bi, K., Sun, G., and Huang, Y. (2021). A Novel Algorithm for Leaf Incidence Angle Effect Correction of Hyperspectral LiDAR. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-9. 
 - **Bai, J.**, Niu, Z.*, Bi, K., Wang, J., Huang, Y. and Sun, G., (2023). Bi-directional Reflection Characteristic of Vegetation Leaf Measured by Hyperspectral LiDAR and Its Impact on Chlorophyll Content Estimation. Spectroscopy and Spectral Analysis, 43(05):1598-1605. 
