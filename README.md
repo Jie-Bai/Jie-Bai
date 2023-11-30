@@ -20,8 +20,6 @@ _IEEE Transactions on Geoscience and Remote Sensing_ , _International Journal of
 - Bi, K., Gao, S., Xiao, S., Zhang, C., **Bai, J.**, Huang, N., Sun, G. and Niu, Z. (2022). N distribution characterization based on organ-level biomass and N concentration using a hyperspectral lidar. Computers and Electronics in Agriculture, 199, 107165.
 - Huang, Y., Dong, Y., Huang, W., Ren, B., Deng, Q., Shi, Y., **Bai, J.**, Ren, Y., Geng, Y. and Ma, H. (2020). Overwintering distribution of fall armyworm (Spodoptera frugiperda) in Yunnan, China, and influencing environmental factors. Insects, 11(11), 805.
 - Huang, Y., Lv, H., Dong, Y., Huang, W., Hu, G., Liu, Y., Chen, H., Geng, Y., **Bai, J.**, Guo, P. and Cui, Y., 2022. Mapping the Spatio-Temporal Distribution of Fall Armyworm in China by Coupling Multi-Factors. Remote Sensing, 14(17), 4415.
-#### Publications In Preparation
-- 
 #### Other Publications &Patents
 #### Books
 - Basis and application of vegetation hyperspectral lidar remote sensing. Niu, Z., Bai, J., et al., Beijing: Science Press, 2022.12.
