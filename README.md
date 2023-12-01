@@ -1,4 +1,4 @@
-### Hi there 👋 Jie Bai     $\quad$  中文姓名： 白杰 
+### Hi there 👋 This is Jie Bai     $\quad$  中文姓名： 白杰 
 Excellent Prize of President Scholarship in CAS (中国科学院院长奖获得者). A Ph.D. candidate in Aerospace Information Research Institute, Chinese Academy of Sciences. 
 - 🔭 Expertise is centered at: **quantitative remote sensing, global ecology evaluation, land and vegetation parameter retrieval, and LiDAR/hyperspectral LiDAR basis & application**.
 - 📫 e-mail: baijie19@mails.ucas.ac.cn
