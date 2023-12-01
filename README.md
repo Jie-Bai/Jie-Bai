@@ -4,9 +4,8 @@ Excellent Prize of President Scholarship in CAS (中国科学院院长奖获得�
 - 📫 e-mail: baijie19@mails.ucas.ac.cn
 - 🌏 [researchgate](https://www.researchgate.net/profile/Jie-Bai-22)
 #### Education
-09/2019 - $\quad$ Ph.D., **Cartography and Geography Information System**, Aerospace Information Research Institute (AIR), Chinese Academy of Sciences (CAS)
-University of Chinese Academy of Sciences,	Beijing, China.  
-09/2015 - 06/2019 $\quad$ Bachelor, **Remote Sensing Science and Technology**	(ranked 1st, recommended as Ph.D. student without examination), Nanjing University of Information Science & Technology,	Nanjing, China
+**09/2019 -** $\quad$ Ph.D., **Cartography and Geography Information System**, Aerospace Information Research Institute (AIR), Chinese Academy of Sciences (CAS),	Beijing, China.  
+**09/2015 - 06/2019** $\quad$ Bachelor, **Remote Sensing Science and Technology**	(ranked 1st, recommended as Ph.D. student without examination), Nanjing University of Information Science & Technology,	Nanjing, China
 #### Peer Reviewer For
 _IEEE Transactions on Geoscience and Remote Sensing_ , _International Journal of Applied Earth Observation and Geoinformation_ , _Remote Sensing_ , _Land_ , _Agriculture_.
 #### Peer-reviewed & Revised Publications
