@@ -20,7 +20,7 @@ _IEEE Transactions on Geoscience and Remote Sensing_(TOP) , _International Journ
 - Huang, Y., Lv, H., Dong, Y., Huang, W., Hu, G., Liu, Y., Chen, H., Geng, Y., **Bai, J.**, Guo, P. and Cui, Y., 2022. Mapping the Spatio-Temporal Distribution of Fall Armyworm in China by Coupling Multi-Factors. Remote Sensing, 14(17), 4415.
 #### Other Publications &Patents
 #### Books
-- Basis and application of vegetation hyperspectral lidar remote sensing. Niu, Z., Bai, J., et al., Beijing: Science Press, 2022.12.[植被高光谱激光雷达遥感基础与应用]
+- Basis and application of vegetation hyperspectral lidar remote sensing. Niu, Z., Bai, J., et al., Beijing: Science Press, 2022.12.[植被高光谱激光雷达遥感基础与应用. 牛铮，白杰 等著，北京：科学出版社，2022.12]
 #### China Invention Patents
 - Bai, J., Niu, Z., et al. A method for correcting the incidence angle effect of vegetation leaves for hyperspectral lidar [P]. China, No.: ZL202110558253.0, 2021-08-27. 
 - Bai, J., Niu, Z., et al. A method for correcting the distance effect of hyperspectral lidar based on homogeneous targets [P]. China, No.: CN115372945A, 2022-08-12.
