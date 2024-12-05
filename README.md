@@ -7,7 +7,7 @@ Recipient, Excellent Prize of CAS President Scholarship (中国科学院院长�
 **09/2019 - 06/2024** $\quad$ Ph.D., **Cartography and Geography Information System**, Aerospace Information Research Institute (AIR), Chinese Academy of Sciences (CAS),	Beijing, China.  
 **09/2015 - 06/2019** $\quad$ Bachelor, **Remote Sensing Science and Technology**	(ranked 1st, recommended as Ph.D. student without examination), Nanjing University of Information Science & Technology,	Nanjing, China
 #### Peer Reviewer For
-_Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (TOP) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_.
+_Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (*) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_.
 #### Peer-reviewed & Revised Publications
 - **Bai J**, Niu Z.*, Wang L.* (2024). A theoretical demonstration on the independence of distance and incidence angle effects for small-footprint hyperspectral LiDAR: Basic physical concepts. **Remote Sensing of Environment**, 315, 114452. (TOP).
 - **Bai J**, Niu Z*, Huang Y, Wang L*, et al (2024). Full-waveform hyperspectral LiDAR data decomposition via ranking central locations of natural target echoes (Rclonte) at different wavelengths. **Remote Sensing of Environment**, 310:114227. (TOP).
