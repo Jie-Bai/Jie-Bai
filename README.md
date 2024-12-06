@@ -9,7 +9,7 @@ Recipient, Excellent Prize of CAS President Scholarship (中国科学院院长�
 #### Peer Reviewer For
 _Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (*) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_.
 #### Peer-reviewed & Revised Publications
-- **Bai J**, Niu Z.*, Wang L.* (2024). A theoretical demonstration on the independence of distance and incidence angle effects for small-footprint hyperspectral LiDAR: Basic physical concepts. **Remote Sensing of Environment**, 315, 114452. (TOP).
+- **Bai J**, Niu Z.*, Wang L. * (2024). A theoretical demonstration on the independence of distance and incidence angle effects for small-footprint hyperspectral LiDAR: Basic physical concepts. **Remote Sensing of Environment**, 315, 114452. (TOP).
 - **Bai J**, Niu Z*, Huang Y, Wang L*, et al (2024). Full-waveform hyperspectral LiDAR data decomposition via ranking central locations of natural target echoes (Rclonte) at different wavelengths. **Remote Sensing of Environment**, 310:114227. (TOP).
 - **Bai J**, Niu Z*, Bi K, Wang L*, et al (2024). Toward An Advanced Method for Full-Waveform Hyperspectral LiDAR Data Processing. **IEEE Transactions on Geoscience and Remote Sensing**, 62: 1-16.  (一区).
 - **Bai, J.**, Niu, Z.*, Gao, S., Bi, K., Wang, J., Huang, Y., & Sun, G. (2023). An exploration, analysis, and correction of the distance effect on terrestrial hyperspectral LiDAR data. **ISPRS Journal of Photogrammetry and Remote Sensing**, 198, 60-83.  (TOP).
