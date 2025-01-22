@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Jie Bai     $\quad$  中文姓名： 白杰 
-“长期致力于高光谱激光雷达定量遥感与应用研究”。中国科学院院长奖获得者，全国激光雷达优秀博士学位论文奖获得者。Committed to the research of hyperspectral LiDAR quantitative remote sensing and application. Recipient, Excellent Prize of CAS President Scholarship. Recipient, Outstanding Doctoral Dissertation Award of National LiDAR Committee. My expertise is centered at hyperspectral LiDAR basis & application, LiDAR, quantitative remote sensing, global ecology evaluation, land and vegetation parameter retrieval, among others.
+中国科学院空天信息创新研究院博士。“长期致力于高光谱激光雷达定量遥感与应用研究”。中国科学院院长奖获得者，全国激光雷达优秀博士学位论文奖获得者。Committed to the research of hyperspectral LiDAR quantitative remote sensing and application. Recipient, Excellent Prize of CAS President Scholarship. Recipient, Outstanding Doctoral Dissertation Award of National LiDAR Committee. My expertise is centered at hyperspectral LiDAR basis & application, LiDAR, quantitative remote sensing, global ecology evaluation, land and vegetation parameter retrieval, among others.
 - 🔭 Expertise is centered at: **hyperspectral LiDAR basis & application, quantitative remote sensing, global ecology evaluation, land and vegetation parameter retrieval**.
-- 📫 e-mail: baijie19@mails.ucas.ac.cn
+- 📫 e-mail: baijie@uestc.edu.cn
 - 🌏 [researchgate](https://www.researchgate.net/profile/Jie-Bai-22)
 #### Education
 **09/2019 - 06/2024** $\quad$ Ph.D., **Cartography and Geography Information System**, Aerospace Information Research Institute (AIR), Chinese Academy of Sciences (CAS),	Beijing, China.  
