@@ -9,7 +9,7 @@
 **12/2024 - 今** $\quad$  PostDoc. Position, University of Electronic Science and Technology of China, Chengdu, China  
 #### Peer Reviewer For
 _Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (*) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_, 雷达学报.
-#### Peer-reviewed & Revised Publications
+#### Publications
 #### 2025  
 - Dong, Y., Xiao, P., Zhang, X., Ge, D., Yu, J., Chen, Y., ... & Bai, J. (2025). Increased vulnerability of Arctic potential ice roads under climate change. Communications Earth & Environment, 6(1), 37. (一区TOP, IF = 8.1)  
 #### 2024  
