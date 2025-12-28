@@ -7,7 +7,7 @@
 **09/2015 - 06/2019** $\quad$ Bachelor, **Remote Sensing Science and Technology**	(ranked 1st, recommended as Ph.D. student without examination), Nanjing University of Information Science & Technology,	Nanjing, China  
 **09/2019 - 07/2024** $\quad$ Ph.D., **Cartography and Geography Information System**, Aerospace Information Research Institute (AIR), Chinese Academy of Sciences (CAS),	Beijing, China.  
 **12/2024 - 12/2025** $\quad$  PostDoc. Position, University of Electronic Science and Technology of China, Chengdu, China  
-**12/2025      至今** $\quad\quad\quad\quad$  Associate Researcher, University of Electronic Science and Technology of China, Chengdu, China  
+**12/2025 $\quad$ 至今** $\quad\quad\quad$  Associate Researcher, University of Electronic Science and Technology of China, Chengdu, China  
 #### Peer Reviewer For
 _Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (*) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_, 雷达学报.
 #### Publications
