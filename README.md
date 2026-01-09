@@ -11,6 +11,8 @@
 #### Peer Reviewer For
 _Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (*) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_, 雷达学报.
 #### Publications
+#### 2026
+- Bai, J., Huang, H., He, B., Ma, L.*, Gao, S., Peng, S., Yang, X., Hao, Y., Dong, Y., Bi, K., Wang, L., Li, S.*, & Niu, Z. (2026). The first large-footprint hyperspectral LiDAR model to attempt to reveal forest chlorophyll distribution heterogeneity from vertically layered spectral perspective utilizing 3D radiative transfer modeling. International Journal of Applied Earth Observation and Geoinformation, 146, 105060.
 #### 2025  
 - Hao Y. , Niu Z., Li W., Bai J., Wang L., Bi K. (2025). A Novel Dynamic Warping Fusion (DWF) Method for Full-Waveform Hyperspectral LiDAR Signal Correction and Decomposition, IEEE Transactions on Geoscience and Remote Sensing, 63, 1-16.（一区TOP）
 - Fu Y., Li W., Duan W., Bai J., Wang L., Niu Z. (2025). Comparison of UAV-LiDAR-driven biomass estimation approaches in planted forests with different management. International Journal of Digital Earth, 18(2), 2576910.
