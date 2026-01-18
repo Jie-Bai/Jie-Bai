@@ -21,6 +21,8 @@ _Remote Sensing_,
 _Land_,
 _Sustainability_ ,
 _Agriculture_,
+_Sensors_,
+_Electronics_,
 _Journal of Remote Sensing_,
 雷达学报.
 #### Publications
