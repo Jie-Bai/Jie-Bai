@@ -9,8 +9,9 @@
 **12/2024 - 12/2025** $\quad$  PostDoc. Position, University of Electronic Science and Technology of China, Chengdu, China  
 **01/2026 $\quad$ 至今** $\quad\quad$  Associate Researcher, University of Electronic Science and Technology of China, Chengdu, China  
 #### Peer Reviewer For
-_Remote Sensing of Environment_ (TOP), _IEEE Transactions on Geoscience and Remote Sensing_ (*) , _International Journal of Applied Earth Observation and Geoinformation_ (TOP), _Journal of Remote Sensing_, _Remote Sensing_, _Land_,_Sustainability_ ,_Agriculture_, 雷达学报.
+_RSE_ (TOP), _IEEE TGRS_ (TOP) , _JAG_ (TOP),_Scientific Data_,_Natural Hazards_,_IJRS_, _JSTARS_, _Optics & Laser Technology_, _Remote Sensing_,  _Land_,_Sustainability_ ,_Agriculture_, _Journal of Remote Sensing_, 雷达学报.
 #### Publications
+
 #### 2026
 - Bai, J., Huang, H., He, B., Ma, L.*, Gao, S., Peng, S., Yang, X., Hao, Y., Dong, Y., Bi, K., Wang, L., Li, S.*, & Niu, Z. (2026). The first large-footprint hyperspectral LiDAR model to attempt to reveal forest chlorophyll distribution heterogeneity from vertically layered spectral perspective utilizing 3D radiative transfer modeling. International Journal of Applied Earth Observation and Geoinformation, 146, 105060.
 #### 2025  
