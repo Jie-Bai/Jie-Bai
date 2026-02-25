@@ -9,7 +9,7 @@
 **12/2024 - 12/2025** $\quad$  PostDoc. Position, University of Electronic Science and Technology of China, Chengdu, China  
 **01/2026 $\quad$ 至今** $\quad\quad$  Associate Researcher, University of Electronic Science and Technology of China, Chengdu, China  
 #### Peer Reviewer For
-1_RSE_ (TOP),
+1 _RSE_ (TOP),
 2_IEEE TGRS_ (TOP) , 
 3_JAG_ (TOP),
 4_Scientific Data_,
