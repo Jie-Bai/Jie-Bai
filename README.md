@@ -17,7 +17,7 @@
 6 _IJRS_, 
 7 _JSTARS_, 
 8 _Optics & Laser Technology_, 
-9 _Remote Sensing_,  
+9 _Remote Sensing_,
 10 _Land_,
 11 _Sustainability_ ,
 12 _Agriculture_,
